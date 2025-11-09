@@ -1,5 +1,5 @@
 # Hi, I'm Lester 👋
-Aspiring software engineer learning full-stack web development.
+Junior Software Developer learning full-stack web development.
 
 🌐 Portfolio: [lesterobando.github.io/portfolio](https://lesterobando.github.io/portfolio)  
 📫 Email: obandolester@gmail.com  
